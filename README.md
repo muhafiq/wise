@@ -55,17 +55,17 @@ The application can currently detect at least seven types of wounds: Abrasion, I
 
 #### Our Teams
 #### Connected🔗⏬⏬
-####Humam
+Humam
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawwazhumam/)
-####Difa
+Difa
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/difa-dlyaulhaq/)
-####Dyah
+Dyah
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyah-megawati/)
-####Afiq
+Afiq
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-afiq-mamun/)
-####Dawam
+Dawam
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dawam-amali-7487ab28b/)
-####Nicholas
+Nicholas
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-tegar-57b8032ab/)
-####Joko
+Joko
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josumaru/)

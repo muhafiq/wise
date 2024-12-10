@@ -44,7 +44,7 @@ We also provide API documentation for developers who are interested in integrati
 
 ## Feedback
 
-If you have any feedback, please reach out to us at support@lukaku.id
+If you have any feedback, please reach out to us at @difa_diyaulhaq CEO Wise
 
 
 ## FAQ
@@ -55,10 +55,17 @@ The application can currently detect at least seven types of wounds: Abrasion, I
 
 #### Our Teams
 #### Connected🔗⏬⏬
+####Humam
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawwazhumam/)
+####Difa
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/difa-dlyaulhaq/)
+####Dyah
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyah-megawati/)
+####Afiq
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-afiq-mamun/)
+####Dawam
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dawam-amali-7487ab28b/)
+####Nicholas
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-tegar-57b8032ab/)
+####Joko
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josumaru/)

@@ -12,11 +12,10 @@ The level of public knowledge about first aid procedures in Indonesia is relativ
 This project is supported by the following companies:
 
 - [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
-- [Bangkit Academy 2022](https://www.linkedin.com/company/bangkit-academy/)
+- [Bangkit Academy 2024](https://www.linkedin.com/company/bangkit-academy/)
 - [Google](https://grow.google/intl/id_id/bangkit/)
 - GoTo
 - Traveloka
-- Deeptech.id
 
 
 ## API Reference

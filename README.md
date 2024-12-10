@@ -1,0 +1,2 @@
+# wise
+Bangkit Capstone Project

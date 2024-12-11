@@ -17,6 +17,12 @@ This project is supported by the following companies:
 - GoTo
 - Traveloka
 
+## UI Wise App
+<p align="center">
+   <img src="https://github.com/muhafiq/wise/edit/main/Image/Splashscreen.png" width="20%">
+   <img src="https://github.com/muhafiq/wise/edit/main/Image/Onboarding-1.png" width="20%">
+   <img src="https://github.com/muhafiq/wise/edit/main/Image/Onboarding-2.png" width="20%">
+</p>
 
 ## API Reference
 

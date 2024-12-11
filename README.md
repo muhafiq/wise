@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_logo-google_icongoogle-512.png">
+  <img src="https://github.com/muhafiq/wise/blob/main/Image/logo-wise.png">
 </p>
 
 
